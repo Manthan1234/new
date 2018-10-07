@@ -1,0 +1,11 @@
+ Volume in drive C is Local Disk C
+ Volume Serial Number is D892-41C8
+
+ Directory of C:\Users\Mr Jashani\local
+
+07-10-2018  AM 09:56    <DIR>          .
+07-10-2018  AM 09:56    <DIR>          ..
+07-10-2018  AM 09:56                 0 abc.txt
+07-10-2018  AM 09:55                 2 def.txt
+               2 File(s)              2 bytes
+               2 Dir(s)   2,424,143,872 bytes free
