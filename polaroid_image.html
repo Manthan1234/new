@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+	
+	<style type="text/css">
+		
+		.main
+		{
+			height: 460px;
+			width: 44.48%;
+			margin: 50px 0px 0px 300px;
+			background-color: white;
+			box-shadow: 0 4px 8px white,0 8px 16px rgba(0,0,0,0.1),0 8px 16px rgba(0,0,0,0.19);
+			position: relative;
+		}	
+		.text
+		{
+			text-align: center;
+			padding: 20px 20px;
+		}	
+		.overlay
+		{
+			  top: 0;
+			  bottom: 0;
+			  left: 0;
+			  right: 0;
+			  height: 100%;
+			  width: 100%;
+			  opacity: 0;
+			  transition: .5s ease;
+			  background-color: #008CBA;
+			  position: absolute;
+		}
+		.main:hover .overlay
+		{
+			opacity: 1;
+		}
+
+	</style>
+
+<body>
+
+	<div class=main>
+		<img src="5.jpg">
+		<div class=overlay>
+			<div class=text>SAVAN IS A GOOD BOY.</div>
+		</div>
+	</div>
+
+</body>
+</html>
